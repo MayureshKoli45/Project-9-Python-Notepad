@@ -1,4 +1,4 @@
-# Project Python Notepad
+# Python Notepad
 
 Making a Notepad in Python using Tkinter
 
